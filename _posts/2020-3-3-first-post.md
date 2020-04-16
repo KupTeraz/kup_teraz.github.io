@@ -4,6 +4,10 @@ title:  "Hello, hello? Is this thing on?"
 excerpt: "A short introduction to what the hell is happening here."
 comments: true
 author-profile: true
+related: true
+share: true
+read_time: true
+
 ---
 
 # Welcome
