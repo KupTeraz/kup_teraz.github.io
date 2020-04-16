@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Hello, hello? Is this thing on?"
 excerpt: "A short introduction to what the hell is happening here."
 comments: true
