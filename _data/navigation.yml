@@ -11,4 +11,6 @@ main:
   - title: "Home"
     url: https://kupteraz.github.io/home/
   - title: "About"
-    url: /about.md/
+    url: ../_pages/about.md/
+  - title: "Affiliates"
+    url: https://emilsmith.net
