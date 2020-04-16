@@ -13,21 +13,21 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Comic Sans MS", sans-serif !default;
-$monospace: Monaco, Consolas, "Comic Sans MS", monospace !default;
+$serif: "Comic Sans", "Comic Sans MS", serif !default;
+$sans-serif: -apple-system, BlinkMacSystemFont,
+  "Comic Sans", "Comic Sans MS", sans-serif !default;
+$monospace: "Comic Sans MS", "Comic Sans", monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
-$helvetica: Helvetica, "Helvetica Neue", "Comic Sans MS", sans-serif !default;
+$helvetica: "Comic Sans MS", sans-serif !default;
 
 /* serif typefaces */
-$georgia: Georgia, serif !default;
-$times: Times, serif !default;
-$bodoni: "Bodoni MT", serif !default;
-$calisto: "Calisto MT", serif !default;
-$garamond: Garamond, serif !default;
+$georgia: "Comic Sans MS", serif !default;
+$times: "Comic Sans MS", serif !default;
+$bodoni: "Comic Sans MS", serif !default;
+$calisto: "Comic Sans MS", serif !default;
+$garamond: "Comic Sans MS", serif !default;
 
 $global-font-family: $sans-serif !default;
 $header-font-family: $sans-serif !default;
