@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -99,7 +99,7 @@ author:
   location         : "In front of drum kit, sticks in hand"
   email            : "jasper@clarkedew.com"
   links:
-    - label: "Email"
+    - label: "Flick me an envelope ;)"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
@@ -209,7 +209,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: −3455+13835
 
 
 # Plugins (previously gems:)

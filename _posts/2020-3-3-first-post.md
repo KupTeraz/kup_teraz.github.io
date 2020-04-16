@@ -1,6 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hello, hello? Is this thing on?"
+excerpt: "A short introduction to what the hell is happening here."
+comments: true
+author_profile: true
 ---
 
 # Welcome
