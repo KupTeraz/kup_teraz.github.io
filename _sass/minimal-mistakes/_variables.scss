@@ -29,9 +29,9 @@ $bodoni: "Comic Sans MS", serif !default;
 $calisto: "Comic Sans MS", serif !default;
 $garamond: "Comic Sans MS", serif !default;
 
-$global-font-family: $sans-serif !default;
-$header-font-family: $sans-serif !default;
-$caption-font-family: $serif !default;
+$global-font-family: "Comic Sans", "Comic Sans MS", sans-serif !default;
+$header-font-family: "Comic Sans", "Comic Sans MS", sans-serif !default;
+$caption-font-family: "Comic Sans", "Comic Sans MS", !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
