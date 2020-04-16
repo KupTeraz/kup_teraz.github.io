@@ -10,7 +10,10 @@ main:
   #   url: /sitemap/
   - title: "Home"
     url: https://kupteraz.github.io/home/
+    description: "-sweet home!"
   - title: "About"
     url: https://kupteraz.github.io/home/about/
+    description: "A bit of info 'bout Küp!'"
   - title: "Affiliates"
     url: https://emilsmith.net
+    description: "Another kool guy I know...!"
