@@ -1,5 +1,5 @@
 ---
-permalink: first-post/
+permalink: /first-post/
 layout: single
 title:  "Hello, hello? Is this thing on?"
 date: 2020-4-16 17:01:00
