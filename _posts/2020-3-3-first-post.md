@@ -8,6 +8,14 @@ author-profile: true
 related: true
 share: true
 read_time: true
+permalink: /home/
+
+header:
+    overlay_image: /assets/images/spaglemon.JPG
+    caption: "Mum's Spaghetti"
+    actions: 
+    - label: "Download"
+      url: "https://unsplash.com"
 
 ---
 

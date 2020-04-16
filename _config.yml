@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/remysemi.jpg
 logo                     : /assets/images/beepbeeplettucefull.png
-masthead_title           : "Honk Honk!"
+masthead_title           : 
 breadcrumbs              : true
 words_per_minute         : 200
 comments:
@@ -96,7 +96,7 @@ author:
   name             : "Jasper Dew"
   avatar           : /assets/images/olafme.PNG
   bio              : "**nyoom**  *adjective*: the noise a race car makes, but cuter ʕ•ᴥ•ʔ"
-  location         : "In front of drum kit, sticks in hand"
+  location         : "At the drums, sticks in hand"
   #email            : #"jasper@clarkedew.com"
   links:
     - label: "Flick me an envelope ;)"
