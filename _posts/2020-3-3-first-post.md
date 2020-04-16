@@ -8,7 +8,6 @@ author-profile: true
 related: true
 share: true
 read_time: true
-font-family: "Comic Sans MS", "Comic Sans", cursive;
 
 ---
 
