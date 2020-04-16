@@ -14,20 +14,13 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: "Comic Sans", "Comic Sans MS", serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont,
-  "Comic Sans", "Comic Sans MS", sans-serif !default;
+$sans-serif: "Comic Sans", "Comic Sans MS", sans-serif !default;
 $monospace: "Comic Sans MS", "Comic Sans", monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
-$helvetica: "Comic Sans MS", sans-serif !default;
 
 /* serif typefaces */
-$georgia: "Comic Sans MS", serif !default;
-$times: "Comic Sans MS", serif !default;
-$bodoni: "Comic Sans MS", serif !default;
-$calisto: "Comic Sans MS", serif !default;
-$garamond: "Comic Sans MS", serif !default;
 
 $global-font-family: "Comic Sans", "Comic Sans MS", sans-serif !default;
 $header-font-family: "Comic Sans", "Comic Sans MS", sans-serif !default;
