@@ -1,4 +1,5 @@
 ---
+permalink: first-post/
 layout: single
 title:  "Hello, hello? Is this thing on?"
 date: 2020-4-16 17:01:00
@@ -8,7 +9,6 @@ author-profile: true
 related: true
 share: true
 read_time: true
-permalink: /home/
 
 header:
     overlay_image: /assets/images/spaglemon.JPG
