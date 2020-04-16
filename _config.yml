@@ -20,14 +20,14 @@ title                    : "Kup Teraz"
 title_separator          : "----"
 subtitle                 : "Let comic sans into your life."
 name                     : "Jasper Dew"
-description              : "An amazing website."
+description              : "CLick. You won't regret it."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 200
 comments:
   provider               : "disqus"
@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : SINGOOutOfCont1
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -97,48 +97,49 @@ author:
   avatar           : /assets/images/bonzi_cool.jpeg
   bio              : "**nyoom**  *adjective*: the noise a race car makes, but cuter ʕ•ᴥ•ʔ"
   location         : "In front of drum kit, sticks in hand"
-  email            : "jasper@clarkedew.com"
+  #email            : #"jasper@clarkedew.com"
   links:
     - label: "Flick me an envelope ;)"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:jasper@clarkedew.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/SINGOOutOfCont1
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: https://www.youtube.com/channel/UCU31FQWQmRfe7RkWAz8jO0Q
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/profile.php?id=100010867145291
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: https://github.com/KupTeraz
+      # url: https://www.facebook.com/profile.php?id=100010867145291
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: https://www.instagram.com/mtn.dew.is.good.4u/
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/KupTeraz
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: https://twitter.com/SINGOOutOfCont1
 
 # Site Footer
 footer:
   links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: https://www.instagram.com/mtn.dew.is.good.4u/
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/KupTeraz
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/SINGOOutOfCont1
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/profile.php?id=100010867145291
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: https://github.com/KupTeraz
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+      # url: https://www.facebook.com/profile.php?id=100010867145291
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: https://www.youtube.com/channel/UCU31FQWQmRfe7RkWAz8jO0Q
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: https://www.instagram.com/mtn.dew.is.good.4u/
+    
 
 
 # Reading Files
