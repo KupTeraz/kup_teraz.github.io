@@ -1,8 +1,9 @@
 ---
 layout: single
 title:  "Hello, hello? Is this thing on?"
+date: 2020-4-16 17:01:00 +0930
 excerpt: "A short introduction to what the hell is happening here."
-comments: true
+comments: true 
 author-profile: true
 related: true
 share: true
