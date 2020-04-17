@@ -9,6 +9,7 @@ author-profile: true
 related: true
 share: true
 read_time: true
+taxonomy: category 
 
 header:
     overlay_image: /assets/images/spaglemon.JPG
