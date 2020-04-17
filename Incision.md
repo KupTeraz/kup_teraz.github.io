@@ -1,5 +1,5 @@
 ---
 title: Incision
-layout: posts
+layout: single
 ---
 Heyo! Mom's spaghetti!

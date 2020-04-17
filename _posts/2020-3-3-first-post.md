@@ -1,7 +1,7 @@
 ---
 permalink: /first-post/
 layout: single
-title:  "Hello, hello? Is this thing on?"
+title:  "Hello, hello? Is this thing on??"
 date: 2020-4-16 17:01:00
 excerpt: "A short introduction to what the hell is happening here."
 comments: true 
