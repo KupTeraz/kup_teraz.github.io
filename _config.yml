@@ -21,8 +21,8 @@ title_separator          : "----"
 subtitle                 : "Let comic sans into your life."
 name                     : "Jasper Dew"
 description              : "CLick. You won't regret it."
-url                      : https://kupteraz.github.io/home/
-baseurl                  : 
+url                      : https://kupteraz.github.io
+baseurl                  : /home
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/remysemi.jpg
 logo                     : /assets/images/beepbeeplettucefull.png
