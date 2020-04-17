@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: posts
 title:  "Author Bio"
 permalink: /about/
 ---
