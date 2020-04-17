@@ -213,6 +213,7 @@ paginate_path: /page:num/
 timezone: −3455+13835
 
 
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -266,7 +267,11 @@ compress_html:
   ignore:
     envs: development
 
-
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+    
 # Defaults
 defaults:
   # _posts
@@ -280,3 +285,13 @@ defaults:
       comments: true
       share: true
       related: true
+
+defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
