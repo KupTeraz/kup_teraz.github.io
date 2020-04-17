@@ -1,9 +1,7 @@
 ---
 title: "List Posts by specific Category here"
 layout: category
-permalink: /categories/
+permalink: /indexcat/
 author_profile: true
-taxonomy: cheese
+taxonomy: kewl
 ---
-
-(located in _pages as catagory.md in repo)
