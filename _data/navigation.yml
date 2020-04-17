@@ -12,7 +12,7 @@ main:
     url: https://kupteraz.github.io/home/
     description: "-sweet home!"
   - title: "About"
-    url: '/gamecontent/about.md/'
+    url: https://kupteraz.github.io/home/gamecontent/about/
     description: "A bit of info 'bout Küp!'"
   - title: "Affiliates"
     url: https://emilsmith.net
