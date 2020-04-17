@@ -1,7 +1,8 @@
 ---
-title: "Foo"
+title: "List Posts by specific Category here"
 layout: category
-permalink: /categories/foo
+permalink: /categories/
 author_profile: true
-taxonomy: foo
 ---
+
+(located in _pages as catagory.md in repo)
