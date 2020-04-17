@@ -9,7 +9,7 @@ author-profile: true
 related: true
 share: true
 read_time: true
-taxonomy: Super Cool
+taxonomy: foo
 
 header:
     overlay_image: /assets/images/spaglemon.JPG
