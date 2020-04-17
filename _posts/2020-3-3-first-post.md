@@ -11,6 +11,8 @@ share: true
 read_time: true
 tags:
     - posticle
+category:
+    - yay
 
 header:
     overlay_image: /assets/images/spaglemon.JPG
@@ -22,6 +24,6 @@ header:
 
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post!!!! Tag?
+**Hello world**, this is my first Jekyll blog post!!!! Tag? Category??
 
 I hope you like it!
