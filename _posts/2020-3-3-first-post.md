@@ -9,6 +9,8 @@ author-profile: true
 related: true
 share: true
 read_time: true
+tags:
+    - posticle
 
 header:
     overlay_image: /assets/images/spaglemon.JPG
@@ -20,6 +22,6 @@ header:
 
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post!!!!
+**Hello world**, this is my first Jekyll blog post!!!! Tag?
 
 I hope you like it!
