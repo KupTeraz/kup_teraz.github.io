@@ -1,7 +1,7 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Foo"
+layout: category
+permalink: /categories/foo
 author_profile: true
-catagories: foo
+taxonomy: foo
 ---
