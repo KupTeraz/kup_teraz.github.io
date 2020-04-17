@@ -1,6 +1,5 @@
 ---
 title: Incision
-layout: collection
-collection: incision
+layout: posts
 ---
 Heyo! Mom's spaghetti!
