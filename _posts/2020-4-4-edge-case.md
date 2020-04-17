@@ -1,5 +1,5 @@
 ---
-title: Incision
+title: Cattastophe
 layout: single
 permalink: /cats/kewl/
 catagories: [kewl, cats]
@@ -12,3 +12,4 @@ read_time: true
 ---
 
 Here is a kewl post about cats
+

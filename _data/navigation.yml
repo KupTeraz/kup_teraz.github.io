@@ -5,7 +5,7 @@ main:
   # - title: "Sample Posts"
   #   url: /year-archive/
   - title: "Cats"
-    url: /pages/indexcat/
+    url: /indexcat/
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Home"
