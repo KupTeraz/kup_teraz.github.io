@@ -7,9 +7,8 @@ author-profile: true
 related: true
 share: true
 read_time: true
-catagory:
+category:
     - kewl
-    - cats
 ---
 
-Here is a kewl post about cats!!
+Here is a kewl post about cats...
