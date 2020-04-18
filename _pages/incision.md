@@ -4,4 +4,4 @@ layout: categories
 permalink: /incision/
 author_profile: true
 ---
-Development updates, general information and teasers relating to _INCISION_
+Development updates, general information and teasers relating to **_INCISION._**

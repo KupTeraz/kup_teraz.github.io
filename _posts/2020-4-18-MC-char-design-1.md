@@ -1,6 +1,6 @@
 ---
 title: Early character design of MC
-excerpt: "And so it begins..."
+excerpt: "Prototyping MC...!"
 layout: single
 permalink: /mc-early-char-design/
 date: 2020-4-18
