@@ -4,10 +4,12 @@ excerpt: "Prototyping MC...!"
 layout: single
 permalink: /mc-early-char-design/
 date: 2020-4-18
-author-profile: true
+author_profile: true
 related: true
 share: true
 read_time: true
+header: 
+  teaser: assets/images/graphpass.jpg
 category:
     - DEVELOPMENT
 ---
