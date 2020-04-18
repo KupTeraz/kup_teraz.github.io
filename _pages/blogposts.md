@@ -1,7 +1,7 @@
 ---
 title: "Blog Posts"
 layout: tag
-permalink: /indexcat/
+permalink: /blogposts/
 author_profile: true
 taxonomy: blog
 entries_layout: list
