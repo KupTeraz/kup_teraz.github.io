@@ -6,6 +6,7 @@ permalink: /mc-early-char-design/
 date: 2020-4-18
 author_profile: true
 related: true
+comments: true
 share: true
 read_time: true
 header: 
