@@ -3,6 +3,6 @@ title: Incision
 layout: categories
 permalink: /incision/
 author_profile: true
-taxonomy: yay, carrots
 ---
-Heyo! Mom's spaghetti! Archive changed!!
+Development updates, teasers and general information relating to _Incision_**
+------------------------------------------------------------------------------

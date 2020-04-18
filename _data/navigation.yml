@@ -4,19 +4,20 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   #- title: "Portfolio"
   #  url: /portfolio/
-  - title: "Blog Posts"
-    url: /blogposts/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-  - title: "Home"
-    url: https://kupteraz.github.io/home/
-    description: "-sweet home!"
   - title: "About"
     url: /about/
     description: "A bit of info 'bout Küp!'"
-  - title: "Affiliates"
-    url: https://emilsmith.net
-    description: "Another kool guy I know...!"
+  - title: "Blog Posts"
+    url: /blogposts/
   - title: "'Incision'"
     url: /incision/
     description: "Updates on my RPG Horror game, 'Incision'"
+  - title: "Affiliates"
+    url: https://emilsmith.net
+    description: "Another kool guy I know...!"
+ # - title: "Home"
+ #   url: https://kupteraz.github.io/home/
+ #   description: "-sweet home!"
+
+  # - title: "Sitemap"
+  #   url: /sitemap/

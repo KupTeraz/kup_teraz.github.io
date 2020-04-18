@@ -1,15 +1,15 @@
 ---
-title: Cattastophe
+title: The beginning of the journey...
+excerpt: dd
 layout: single
 permalink: /cats/kewl/
-date: 2020-4-18 17:01:00 
+date: 2020-4-18
 author-profile: true
 related: true
 share: true
 read_time: true
 category:
-    - kewl
-    - carrots
+    - updates
 ---
 
-Here is a kewl post about cats...
+And so it begins...
