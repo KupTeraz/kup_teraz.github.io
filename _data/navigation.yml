@@ -2,8 +2,8 @@
 main:
   # title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
   - title: "Cats"
     url: /indexcat/
   # - title: "Sitemap"
@@ -12,11 +12,11 @@ main:
     url: https://kupteraz.github.io/home/
     description: "-sweet home!"
   - title: "About"
-    url: https://kupteraz.github.io/home/about/
+    url: /about/
     description: "A bit of info 'bout Küp!'"
   - title: "Affiliates"
     url: https://emilsmith.net
     description: "Another kool guy I know...!"
   - title: "'Incision'"
-    url: https://kupteraz.github.io/home/incision/
+    url: /incision/
     description: "Updates on my RPG Horror game, 'Incision'"
