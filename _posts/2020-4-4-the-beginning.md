@@ -1,15 +1,15 @@
 ---
 title: The beginning of the journey...
-excerpt: dd
+excerpt: "And so it begins..."
 layout: single
-permalink: /cats/kewl/
+permalink: /the-beginning/
 date: 2020-4-18
 author-profile: true
 related: true
 share: true
 read_time: true
 category:
-    - updates
+    - UPDATES
 ---
 
-And so it begins...
+And so it begins...!
