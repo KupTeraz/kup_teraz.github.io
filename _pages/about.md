@@ -1,6 +1,6 @@
 ---
-layout: collection
+layout: single
 title:  "Author Bio"
-breadcrumbs: false
+permalink: /about/
 ---
 Hey, he's a pretty cool guy!
