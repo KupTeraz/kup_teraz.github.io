@@ -1,8 +1,7 @@
 ---
-title: INCISION Info
+title: INCISION info
 layout: categories
 permalink: /incision/
 author_profile: true
 ---
-Development updates, teasers and general information relating to _INCISION_
-----
+Development updates, general information and teasers relating to _INCISION_
