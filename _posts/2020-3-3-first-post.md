@@ -10,7 +10,7 @@ related: true
 share: true
 read_time: true
 tags:
-    - posticle
+    - blog
 category:
     - yay
 
