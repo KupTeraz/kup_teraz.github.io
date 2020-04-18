@@ -9,6 +9,7 @@ share: true
 read_time: true
 category:
     - kewl
+    - carrots
 ---
 
 Here is a kewl post about cats...
