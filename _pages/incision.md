@@ -8,7 +8,7 @@ header:
     caption: "Trust is a liberty..."
     actions: 
     - label: "Download (TBC)"
-      url: ""
+      url: "https://kupteraz.github.io/home/incision/"
 sidebar:
   - title: Sample Title
     image: /assets/images/MC1.png

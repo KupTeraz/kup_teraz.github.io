@@ -13,7 +13,8 @@ tags:
     - blog
 
 header:
-    overlay_image: /assets/images/spaglemon.JPG
+    overlay_image: /assets/images/teaspag.JPG
+    teaser: assets/images/cursedspag.jpg
     caption: "Mum's Spaghetti"
     actions: 
     - label: "Sing Along...!"

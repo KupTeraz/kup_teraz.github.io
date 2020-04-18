@@ -24,7 +24,7 @@ description              : "CLick. You won't regret it."
 url                      : https://kupteraz.github.io
 baseurl                  : /home
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/remysemi.jpg
+teaser                   : /assets/images/beepbeep.jpg
 logo                     : /assets/images/beepbeeplettucefull.png
 masthead_title           : 
 breadcrumbs              : false

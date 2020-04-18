@@ -8,6 +8,8 @@ author-profile: true
 related: true
 share: true
 read_time: true
+header: 
+  teaser: assets/images/charset1.jpg
 category:
     - DEVELOPMENT
 ---
