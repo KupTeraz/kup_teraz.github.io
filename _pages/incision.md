@@ -2,13 +2,17 @@
 title: INCISION info
 layout: categories
 permalink: /incision/
-author_profile: true
 
 header:
     overlay_image: /assets/images/spaglemon.JPG
-    caption: "Nyehehehe..."
+    caption: "Trust is a liberty..."
     actions: 
-    - label: "Sing Along...!"
-      url: "https://www.youtube.com/watch?v=SW-BU6keEUw"
+    - label: "Download (TBC)"
+      url: ""
+sidebar:
+  - title: Sample Title
+    image: /assets/images/MC1.png
+    image_alt: "Trust is a liberty..."
+    text: Sample Caption
 ---
 Development updates, general information and teasers relating to **_INCISION._**
