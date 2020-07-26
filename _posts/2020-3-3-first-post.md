@@ -23,6 +23,6 @@ header:
 
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post!!!! Tag?
+**Hello world**, this is my first Jekyll blog post!!!! Just here to test if the tag feature works ;)
 
-I hope you like it!
+I hope you enjoy your stay!
