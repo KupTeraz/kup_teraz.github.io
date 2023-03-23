@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jasper Dew"
+  name             : "Juniper Dew"
   avatar           : /assets/images/olafme.PNG
   bio              : "**nyoom**  *adjective*: the noise a race car makes, but cuter ʕ•ᴥ•ʔ"
   location         : "At the drums, sticks in hand"
-  #email            : #"jasper@clarkedew.com"
+  email            : "juniper@clarkedew.com"
   links:
     - label: "Flick me an envelope ;)"
       icon: "fas fa-fw fa-envelope-square"
